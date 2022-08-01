@@ -1,4 +1,4 @@
-module gogio2
+module github.com/wailovet/gogio2
 
 go 1.16
 
