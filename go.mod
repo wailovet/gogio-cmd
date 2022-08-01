@@ -1,4 +1,4 @@
-module gogio
+module gogio2
 
 go 1.16
 
